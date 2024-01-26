@@ -1,0 +1,10 @@
+.age-group-price-list-container {
+  border: 2px dashed gray;
+  width: 500px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.add-card-button {
+  margin-top: 10px;
+}

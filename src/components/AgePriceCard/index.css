@@ -1,0 +1,25 @@
+.age-price-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 10px;
+  font-size: 13px;
+}
+
+.card-title {
+  font-size: 13px;
+}
+
+.remove-button {
+  font-size: 13px;
+  color: red;
+}
+
+.card-content {
+  display: flex;
+}
